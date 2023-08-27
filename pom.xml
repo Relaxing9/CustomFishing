@@ -6,13 +6,13 @@
 
     <groupId>com.illuzionzstudios</groupId>
     <artifactId>CustomFishing</artifactId>
-    <version>4.3.5</version>
+    <version>4.3.6</version>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <kotlin.code.style>official</kotlin.code.style>
         <kotlin.compiler.jvmTarget>1.8</kotlin.compiler.jvmTarget>
-        <kotlin.version>1.7.0</kotlin.version>
+        <kotlin.version>1.9.10</kotlin.version>
     </properties>
 
     <repositories>
@@ -36,14 +36,14 @@
         <dependency>
             <groupId>com.illuzionzstudios</groupId>
             <artifactId>Mist</artifactId>
-            <version>1.0.2-SNAPSHOT</version>
+            <version>1.0.3-SNAPSHOT</version>
             <scope>compile</scope>
         </dependency>
 
         <dependency>
             <groupId>org.spigotmc</groupId>
             <artifactId>spigot</artifactId>
-            <version>1.19-R0.1-SNAPSHOT</version>
+            <version>1.20.1-R0.1-SNAPSHOT</version>
             <scope>provided</scope>
         </dependency>
 
