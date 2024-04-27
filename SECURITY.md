@@ -11,4 +11,5 @@ These versions of CustomFishing are only supported in this fork.
 
 ## Reporting a Vulnerability
 
-Make a new [Issue (Bug Report)](https://github.com/Relaxing9/CustomFishing/issues/new?assignees=&labels=bug&template=bug_report.yml) & it would be reviewed by a code manager.
+Make a report [Issue (Report a vulnerability)](https://github.com/Relaxing9/CustomFishing/security/advisories/new) & it would be reviewed by a code manager.
+
